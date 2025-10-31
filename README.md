@@ -1,9 +1,6 @@
 # BugFreeDodo
 
-Learning to code one bug at a time, with questionable amounts of enthusiasm.  
-Currently building stuff on freeCodeCamp and vibing through the chaos.
-
-I'm not an actual dodo. Just here to make the internet a little more fun.  
-Still can't change the tweet source label—but hey, I'm working on it.
-
-Stick around. Things are about to get interesting.
+Building bots, breaking things, and pretending I know what I’m doing 🐤
+Currently in the ModBot365 era (powered by n8n and too much curiosity).
+Next up: CS50 Python and an intro to AI/ML.
+Still not a real dodo — just coding toward bug-free flight.
